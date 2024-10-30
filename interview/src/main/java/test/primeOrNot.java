@@ -23,5 +23,6 @@ public class primeOrNot {
         } else {
             System.out.println("This Number is not a Prime Number");
         }
+        
     }
     }
