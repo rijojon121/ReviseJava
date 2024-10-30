@@ -5,7 +5,7 @@ import java.util.HashSet;
 public class arrayDuplicatesInarray {
     public static void main(String[] args) {
         
-        String arr[] = {"java", "C#", "python"};
+        String arr[] = {"java", "C#", "python","java"};
 
         HashSet <String>langs = new HashSet();
 
